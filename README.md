@@ -1,5 +1,6 @@
 # prm_planner
-Dependências canônicas:<br />
+Pacote desenvolvido para ROS Noetic <br />
+## Dependências canônicas:<br />
 sudo apt install ros-noetic-tf2-bullet<br />
 sudo apt install ros-noetic-ompl<br />
 sudo apt install ros-noetic-ompl-dbgsym
