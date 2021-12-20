@@ -14,4 +14,6 @@ sudo apt install ros-noetic-ompl-dbgsym
 
 Change move_base parameter **base_global_planner** to **PRM**.
 It can be done in the launch file:
+```
 <param name="base_global_planner" value="PRM" />
+```
