@@ -1,8 +1,8 @@
 # prm_planner
 Package developed for ROS Noetic that implements PRM as a global planner in plugin form.<br />
 
-**Author: [Mateus Seixas]<br />
-Affiliation: [BIR - Brazilian Institute of Robotics]<br />
+**Author: [Mateus Seixas](https://github.com/seixasxbr)<br />
+Affiliation: [BIR - Brazilian Institute of Robotics](https://github.com/Brazilian-Institute-of-Robotics)<br />
 Maintainer: Mateus Seixas, mateus_seixas@hotmail.com.br**
 
 ## Dependencies:<br />
